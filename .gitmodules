@@ -1,0 +1,6 @@
+[submodule "repoA"]
+	path = repoA
+	url = git@github.com:rimrakhimov/repoA.git
+[submodule "transaction-decoder"]
+	path = transaction-decoder
+	url = git@github.com:blockscout/transaction-decoder.git
